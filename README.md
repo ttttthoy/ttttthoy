@@ -1,6 +1,5 @@
 ### 🙆🏻‍♀️ <b> About Me </b>
 <br/>
-<br/>
 Hi there 👋 welcome to my github! 🥳
 <br/>
 I am a backend developer.👩🏻‍💻 <br/>
