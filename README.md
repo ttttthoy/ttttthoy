@@ -1,4 +1,4 @@
-### 🌼<b> About Me </b>🌼
+### 🙆🏻‍♀️ <b> About Me </b>
 <br/>
 <br/>
 Hi there 👋 welcome to my github! 🥳
@@ -8,11 +8,16 @@ I mainly develop for the web and can also develop Android and iOS native apps.<b
 Being a full-stack developer is my dream, so I am also interested in front-end development and preparing step by step.🧗🏻‍♀️ 
 <br/>
 <br/>
-I love being outdoors, exercise regularly, and these days I am obsessed with driving and boarding.🚘 🏂
+<br/>
+
+### 🌿 <b>what I like</b>
+<br/>
+🏃🏻‍♀️ Excercise 💻 Programming 🚘 Driving 📚 Read 🍿 Movie & Music  
 <br/>
 <br/>
 <br/>
-### 💻 <b>Skills</b>
+
+### 👾 <b>Skills</b>
 <br/>
 <b>Platforms & Languages</b>
 <div style="display:inline;">
@@ -33,9 +38,14 @@ I love being outdoors, exercise regularly, and these days I am obsessed with dri
 <br/>
 <b>Tools</b>
 <div style="display:inline;">
+  <img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=flat-square&logo=eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+</div>
+<div style="display:inline;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgAdmin-4169E1?style=flat-square&logo=pgAdmin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 </div>
