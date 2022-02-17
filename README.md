@@ -6,16 +6,12 @@ I am a backend developer.👩🏻‍💻 <br/>
 I mainly develop for the web and can also develop Android and iOS native apps.<br/>
 Being a full-stack developer is my dream, so I am also interested in front-end development and preparing step by step.🧗🏻‍♀️ 
 <br/>
-<br/>
 
-### 🌿 <b>what I like</b>
-<br/>
+#### 🌿 <b>what I like</b>
 🏃🏻‍♀️ Excercise 💻 Programming 🚘 Driving 📚 Read 🍿 Movie & Music  
-<br/>
 <br/>
 
 ### 👾 <b>Skills</b>
-<br/>
 <b>Platforms & Languages</b>
 <div style="display:inline;">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -29,10 +25,9 @@ Being a full-stack developer is my dream, so I am also interested in front-end d
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=black"/>
+<!--     <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=black"/> -->
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
-<br/>
 <br/>
 <b>Tools</b>
 <div style="display:inline;">
