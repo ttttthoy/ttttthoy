@@ -1,18 +1,18 @@
-### 🙆🏻‍♀️ <b> About Me </b>
-<br/>
-Hi there 👋 welcome to my github! 🥳
+### <b> Hi there 👋 </b>
+welcome to my github!
 <br/>
 I am a backend developer.👩🏻‍💻 <br/>
 I mainly develop for the web and can also develop Android and iOS native apps.<br/>
 Being a full-stack developer is my dream, so I am also interested in front-end development and preparing step by step.🧗🏻‍♀️ 
 <br/>
 
-#### 🌿 <b>what I like</b>
+### <b>what I like</b>
 🏃🏻‍♀️ Excercise 💻 Programming 🚘 Driving 📚 Read 🍿 Movie & Music  
 <br/>
 
 ### 👾 <b>Skills</b>
 <b>Platforms & Languages</b>
+<br/>
 <div style="display:inline;">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -30,6 +30,7 @@ Being a full-stack developer is my dream, so I am also interested in front-end d
 </div>
 <br/>
 <b>Tools</b>
+<br/>
 <div style="display:inline;">
   <img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=flat-square&logo=eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/>
