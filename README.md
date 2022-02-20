@@ -6,10 +6,10 @@ I mainly develop for the web and can also develop Android and iOS native apps.<b
 Being a full-stack developer is my dream, so I am also interested in front-end development and preparing step by step.🧗🏻‍♀️ 
 <br/>
 
-### <b>what I like</b>
+<!-- ### <b>what I like</b>
 🏃🏻‍♀️ Excercise 💻 Programming 🚘 Driving 📚 Read 🍿 Movie & Music  
 <br/>
-
+ -->
 ### 👾 <b>Skills</b>
 <b>Platforms & Languages</b>
 <br/>
