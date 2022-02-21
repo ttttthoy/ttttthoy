@@ -1,16 +1,15 @@
-### <b> Hi there 👋 </b>
-welcome to my github!
-<br/>
-I am a backend developer.👩🏻‍💻 <br/>
-I mainly develop for the web and can also develop Android and iOS native apps.<br/>
-Being a full-stack developer is my dream, so I am also interested in front-end development and preparing step by step.🧗🏻‍♀️ 
-<br/>
+ <b> Hi There👋</b>
+
+- Backend Developer👩🏻‍💻 
+- Experience in CRM, Web, App development.<br/>
+<!-- Being a full-stack developer is my dream, so I am also interested in front-end development and preparing step by step.🧗🏻‍♀️  -->
 
 <!-- ### <b>what I like</b>
 🏃🏻‍♀️ Excercise 💻 Programming 🚘 Driving 📚 Read 🍿 Movie & Music  
 <br/>
  -->
-### 👾 <b>Skills</b>
+<!-- ### 👾 <b>Skills</b> -->
+<br/>
 <b>Platforms & Languages</b>
 <br/>
 <div style="display:inline;">
